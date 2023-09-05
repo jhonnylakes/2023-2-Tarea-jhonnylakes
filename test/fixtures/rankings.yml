@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  page: MyString
+  min_score: MyString
+  float: MyString
+  score: MyString
+  float: MyString
+  max_score: 1.5
+  director: one
+
+two:
+  page: MyString
+  min_score: MyString
+  float: MyString
+  score: MyString
+  float: MyString
+  max_score: 1.5
+  director: two

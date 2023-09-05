@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  age: MyString
+  integer: MyString
+  country: MyString
+  string: MyString
+  has_oscars: false
+
+two:
+  name: MyString
+  age: MyString
+  integer: MyString
+  country: MyString
+  string: MyString
+  has_oscars: false
